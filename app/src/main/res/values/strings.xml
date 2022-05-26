@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vistor Tracking</string>
+    <string-array name="who_to_see">
+        <item>Gideon Bedzrah</item>
+        <item>Ayawen Asinura</item>
+        <item>Derrick Dunyo</item>
+        <item>Gibson Annor-Antwi</item>
+        <item>Nadia Modoc</item>
+        <item>Selina Osei</item>
+    </string-array>
+</resources>
